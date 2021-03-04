@@ -11,7 +11,9 @@ For this assignment, you will submit a high-level outline of your project. This 
   The app will help businesses keep track of shipment issues. This will eliminate the need for piles of notes and untracked issues. It is important for the business to have good information to provide to their vendors. This gives the vendors the opportunty to make things right. Otherwise, the purchaser will be eating the cost of damaged or missing items. This is not good for the bottom line of any company!
 ### Features
 User Login: Users will be able to create accounts and log in to the application.
+
 Create Entry: Users will be able to create an entry for each shipment that has an issue.
+
 Update Entry: Users will be able to update the status of entrys that have already been created.
 ### Technologies
 Java
