@@ -1,3 +1,4 @@
+[Kirsti Schaffer Resume 2021.pdf](https://github.com/kschaffer7/liftoff-assignments/files/6112858/Kirsti.Schaffer.Resume.2021.pdf)
 # Online Profiles
 For this assignment you will need to upload your resume and provide links to your GitHub account and your LinkedIn account.
 
@@ -13,6 +14,5 @@ https://github.com/kschaffer7
 https://www.linkedin.com/in/kirsti-schaffer/
 
 ### Resume
-You will need to upload a .PDF of your resume to this repo, or connect with your mentor on an alternate way of submitting your resume.
+[Kirsti Schaffer Resume 2021.pdf](https://github.com/kschaffer7/liftoff-assignments/files/6112862/Kirsti.Schaffer.Resume.2021.pdf)
 
-> *Your GitHub repository is public* if you do not want to upload your resume to a public facing repository, talk with your mentor about an alternate way to submit this assignment.
