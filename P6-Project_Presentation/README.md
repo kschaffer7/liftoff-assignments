@@ -7,4 +7,4 @@ We want to you to create a set of presentation slides summarizing your project.
 ## Submission Instructions
 
 ### Presentation
-Upload a .PDF of your presentation here for review.
+[Shipment Discrepancy Tracker Presentation.pdf](https://github.com/kschaffer7/liftoff-assignments/files/6373399/Shipment.Discrepancy.Tracker.Presentation.pdf)
